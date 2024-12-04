@@ -1,4 +1,4 @@
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=johnvo24&show_icons=true&theme=tokyonight#gh-dark-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=johnvo24&show_icons=true&theme=gotham#gh-dark-mode-only)
 
 <div align="center">
     <h1>JOHN VO'S PROFILE</h1>
