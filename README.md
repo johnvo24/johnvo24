@@ -1,7 +1,7 @@
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=johnvo24&show_icons=true&theme=moltack#gh-dark-mode-only)
 
 <div align="center">
     <h1>JOHN VO'S PROFILE</h1>
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=johnvo24&show7_icons=true&theme=moltack#gh-dark-mode-only)
         <table>
             <tr>
                 <td>
