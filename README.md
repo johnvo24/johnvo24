@@ -1,3 +1,4 @@
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=johnvo24&show7_icons=true&theme=moltack#gh-dark-mode-only)
 
 <div align="center">
     <h1>JOHN VO'S PROFILE</h1>
@@ -16,8 +17,6 @@
                 </td>
             </tr>
         </table>
-    
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=johnvo24&show7_icons=true&theme=moltack#gh-dark-mode-only)
     <img src="https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg"/>
 </div>
 
