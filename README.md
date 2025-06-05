@@ -1,14 +1,11 @@
 <h1 align="center">VO CHI DUNG (John Vo)</h1>
-<h4 align="center" style="margin: 0; margin-bottom: 15px">"Full-stack Mobile Developer with a Software Engineering background."</h4>
+<h4 align="center" style="margin: 0;">"Full-stack Mobile Developer with a Software Engineering background."</h4>
 
 <h3 align="left" style="margin: 0">Informations</h3>
-<hr>
 <b>University:</b> Vietnam-Korea University of Information and Communication Technology
 <b>Contact:</b> vochidung.cv@gmail.com 
-<br><br>
 
 <h3 align="left" style="margin: 0px">Technologies</h3>
-<hr>
 <b>[Mobile]</b>
 <a href="https://flutter.dev"> Flutter</a> |
 <a href="https://reactnative.dev/"> React Native</a> |
