@@ -1,9 +1,9 @@
 <h1 align="center">VO CHI DUNG (John Vo)</h1>
 <h4 align="center" style="margin: 0;">"Full-stack Mobile Developer with a Software Engineering background."</h4>
 
-<h3 align="left" style="margin: 0">Informations</h3>
-<b>University:</b> Vietnam-Korea University of Information and Communication Technology
-<b>Contact:</b> vochidung.cv@gmail.com 
+<h3 align="left" style="margin: 0">Personal Information</h3>
+<b>🏛️ University:</b> Vietnam-Korea University of Information and Communication Technology <br>
+<b>✉️ Contact:</b> vochidung.cv@gmail.com 
 
 <h3 align="left" style="margin: 0px">Technologies</h3>
 <b>[Mobile]</b>
