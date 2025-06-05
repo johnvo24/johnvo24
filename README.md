@@ -51,12 +51,27 @@
 
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file" >
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=johnvo24&show_icons=true&theme=merko"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=johnvo24&show_icons=true" />
-  </picture>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=johnvo24&show_icons=true&theme=merko" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=johnvo24&show_icons=true&theme=default" 
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=johnvo24&show_icons=true" 
+    alt="GitHub Stats" />
+</picture>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnvo24&layout=compact&langs_count=10&theme=merko&size_weight=0.8)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvo24&layout=compact&langs_count=10&theme=merko&size_weight=0.8" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvo24&layout=compact&langs_count=10&theme=default&size_weight=0.8" 
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvo24&layout=compact&langs_count=10" 
+    alt="Top Languages" />
+</picture>
 </a>
