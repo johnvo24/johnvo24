@@ -3,7 +3,7 @@
 
 <h3 align="left" style="margin: 0">Personal Information</h3>
 <b>🏛️ University:</b> Vietnam-Korea University of Information and Communication Technology <br>
-<b>✉️ Contact:</b> vochidung.cv@gmail.com 
+<b>✉️ Contact:</b> vochidung.dev@gmail.com 
 
 <h3 align="left" style="margin: 0px">Technologies</h3>
 <span>[Mobile]</span>
